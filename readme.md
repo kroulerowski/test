@@ -9,9 +9,9 @@ tekst **pogrubiony**
 1. lista
 2. druga rzecz
 3. 3 rzecz
-   ⋅⋅* Unordered sub-list
-   ⋅⋅* Unordered sub-list
-   ⋅⋅* Unordered sub-list
-   ⋅⋅* Unordered sub-list
-   ⋅⋅* Unordered sub-list
-   ⋅⋅* Unordered sub-list
+   * Unordered sub-list
+   * Unordered sub-list
+   * Unordered sub-list
+   * Unordered sub-list
+   * Unordered sub-list
+   * Unordered sub-list
